@@ -4,7 +4,6 @@ package atividade01;
 import Funcionarioteste.Funcionario;
 
 
-
 public class Atividade01 {
 
     
